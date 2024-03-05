@@ -23,7 +23,7 @@ I'm a full stack developer proficient in CSS, JavaScript, and HTML, with trainin
 
 **Tech Stack:** 
 
-![Tech1](Badge-URL)
+![Tech1](https://github.com/Qonda3/SDF_Portfolio_Piece_QONMAM343_WFC2401_QondaMampofu_SDF11-main)
 ![Tech2](Badge-URL)
 ... [Add as needed]
 
