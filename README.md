@@ -1,38 +1,35 @@
+
 # Qonda Mampofu
 ### Full-stack Developer
 
-I'm a full stack developer proficient in CSS, JavaScript, and HTML, with training from Scrimba, freeCodeCamp, and CodeSpace. Passionate about creating dynamic web applications and always eager to learn and adapt to new technologies.
+<h3 align="center">I'm a full stack developer proficient in CSS, JavaScript, and HTML, with training from Scrimba, freeCodeCamp, and CodeSpace. Passionate about creating dynamic web applications and always eager to learn and adapt to new technologies.</h3>
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **0782619934**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [Your Email](mailto:mampofuq@gmail.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [mampofuq@gmail.com](mailto:mampofuq@gmail.com)
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [Your Portfolio Site](https://sunny-cat-6aa96e.netlify.app/)
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [My portfolio ](https://sunny-cat-6aa96e.netlify.app/)
 
-## 👾 Technologies
+⚡ Fun fact **I have hiked all three beautiful mountains in Cape Town.**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<h1 align="center"> 👾 Technologies <h1>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS3  </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>FIGMA  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>GIT  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>JAVASCRIPT </a>                  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> TAILWIND</a> </p>
 
-# Personal Projects
 
-## Project Name
-**Brief Description:** What the project does and your role in it.
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-**Tech Stack:** 
-
-![Tech1](https://github.com/Qonda3/SDF_Portfolio_Piece_QONMAM343_WFC2401_QondaMampofu_SDF11-main)
-![Tech2](Badge-URL)
-... [Add as needed]
-
-**[Link to Project](URL)** | **[GitHub Repository](URL)**
-
-... [Add more projects as needed]
-
-## Connect with me🤝:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qonda3)
-... [Add other social links as needed]
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qonda3&show_icons=true&locale=en" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=qonda3&show_icons=true&locale=en&layout=compact" alt="qonda3" alt="readme stats" />
+  <br/>
+  
+</div>
