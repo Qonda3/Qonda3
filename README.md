@@ -1,10 +1,9 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”" alt=”my banner”>
-
+<p align="center">
+  <img height="400" src="banner.png" alt="my banner"/>
 </p>
-# Qonda Mampofu
-### Full-stack Developer
+
+<h1>Qonda Mampofu</h1>
+<p>Front-end Developer</p>
 
 <h3 align="center">I'm a full stack developer proficient in CSS, JavaScript, and HTML, with training from Scrimba, freeCodeCamp, and CodeSpace. Passionate about creating dynamic web applications and always eager to learn and adapt to new technologies.</h3>
 
