@@ -1,4 +1,8 @@
+<p align=”center”>
 
+<img width=”200" height=”200" src=”" alt=”my banner”>
+
+</p>
 # Qonda Mampofu
 ### Full-stack Developer
 
