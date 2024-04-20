@@ -16,7 +16,7 @@
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [My portfolio ](https://sunny-cat-6aa96e.netlify.app/)
 
 
-<h1 align="center"> 👾 Technologies </h1>
+<h1 align="center">Technologies<img height="50" src="laptop.png" alt="VScode logo"/></h1>
 <div align="center">
   <img height="50" src="html.png" alt="HTML logo"/>
   &nbsp; <!-- Non-breaking space -->
@@ -31,6 +31,8 @@
   <img height="50" src="tailwind.png" alt="React logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="visual-studio-code.png" alt="VScode logo"/>
+  &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="git.png" alt="VScode logo"/>
 </div>
 <div align="center">
   <h2> My Contributions </h2>
@@ -45,7 +47,6 @@
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=qonda3&show_icons=true&locale=en" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=qonda3&show_icons=true&locale=en&layout=compact" alt="qonda3" alt="readme stats" />
   <br/>
   
 </div>
