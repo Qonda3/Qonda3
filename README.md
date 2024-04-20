@@ -21,6 +21,8 @@
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="css.png" alt="CSS logo"/>
   &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="javascript-logo.png" alt="javascript logo"/>
+  &nbsp; <!-- Non-breaking space -->
   <img height="50" src="react.png" alt="React logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="visual-studio-code.png" alt="VScode logo"/>
