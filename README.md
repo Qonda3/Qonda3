@@ -11,7 +11,7 @@
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **0782619934**
 
-<span style="text-decoration: none;">![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) **mampofuq@gmail,com**</span>
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) mampofuq@gmail,com
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [My portfolio ](https://sunny-cat-6aa96e.netlify.app/)
 
@@ -35,14 +35,13 @@
   <img height="50" src="git.png" alt="VScode logo"/>
 </div>
 <div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+## My Contributions
+
+![Snake eating my contributions](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
-<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
