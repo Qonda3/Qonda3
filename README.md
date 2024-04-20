@@ -2,9 +2,11 @@
   <img height="400" src="banner.png" alt="my banner"/>
 </p>
 
-<h2>Qonda Mampofu</h2>
+<h2 align="center">Qonda Mampofu</h2>
 
-<h3 align="center">I'm a front-end developer proficient in CSS, JavaScript, and HTML, with training from Scrimba, freeCodeCamp, and CodeSpace. Passionate about creating dynamic web applications and always eager to learn and adapt to new technologies.</h3>
+<h3 align="center">Front-end Developer | CSS | JavaScript | HTML</h3>
+
+<h3 align="center">I'm a front-end developer passionate about creating dynamic web applications. I have received training from Scrimba, freeCodeCamp, and CodeSpace, honing my skills in CSS, JavaScript, and HTML. I am always eager to learn and adapt to new technologies.</h3>
 
 
 <h2 align="center">Contact</h2>
