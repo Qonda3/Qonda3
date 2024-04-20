@@ -17,9 +17,9 @@
   <img height="20" src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png"/> mampofuq@gmail.com
   &nbsp;&nbsp;&nbsp;
   <img height="20" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png"/> My portfolio
-  &nbsp;&nbsp;&nbsp;
-  <img src="linkdn-logo.png"/>
 </div>
+&nbsp;&nbsp;&nbsp;
+<div align="center"><a href="www.linkedin.com/in/qonda"><img height="27" src="linkden-logo.png"/></a></div>
 
 <h1 align="center">Technologies</h1>
 <div align="center">
