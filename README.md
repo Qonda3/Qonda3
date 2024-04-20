@@ -43,7 +43,7 @@
   
 ## My Contributions
 
-<img src="giphy.png" alt="code gif"/>
+<img src="giphy.gif" alt="code gif"/>
 
 </div>
 
