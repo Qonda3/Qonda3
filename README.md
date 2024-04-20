@@ -11,12 +11,12 @@
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **0782619934**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [mampofuq@gmail.com](mailto:mampofuq@gmail.com)
+<span style="text-decoration: none;">![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) **mampofuq@gmail,com**</span>
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [My portfolio ](https://sunny-cat-6aa96e.netlify.app/)
 
 
-<h1 align="center">Technologies<img height="50" src="laptop.png" alt="VScode logo"/></h1>
+<h1 align="center">Technologies</h1>
 <div align="center">
   <img height="50" src="html.png" alt="HTML logo"/>
   &nbsp; <!-- Non-breaking space -->
