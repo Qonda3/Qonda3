@@ -18,7 +18,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="20" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png"/> My portfolio
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile"><img height="20" src="linkedin.png"/></a>
+  <img src="linkdn-logo.png"/>
 </div>
 
 <h1 align="center">Technologies</h1>
