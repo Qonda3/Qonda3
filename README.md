@@ -9,12 +9,15 @@
 
 <h2 align="center">Contact</h2>
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **0782619934**
-
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) mampofuq@gmail,com
-
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png) [My portfolio ](https://sunny-cat-6aa96e.netlify.app/)
-
+<div align="center">
+  <img height="20" src="https://img.icons8.com/ios-filled/20/000000/phone.png"/> 0782619934
+  &nbsp;&nbsp;&nbsp;
+  <img height="20" src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png"/> mampofuq@gmail.com
+  &nbsp;&nbsp;&nbsp;
+  <img height="20" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png"/> My portfolio
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile"><img height="20" src="https://img.icons8.com/color/20/000000/linkedin.png"/></a>
+</div>
 
 <h1 align="center">Technologies</h1>
 <div align="center">
