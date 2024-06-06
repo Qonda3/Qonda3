@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://myportifolioweb.netlify.app/" target="_blank"><img height="20" src="https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png"/> My portfolio</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://docs.google.com/document/d/16nQTKkjufRYTNUKaUh5kh7OYtit3LXu9mawQrC92LL0/edit?usp=sharing" target="_blank"><img height="20" src="Resume.png" alt="Resume Icon"/> Resume</a>
+  <a href="https://docs.google.com/document/d/16nQTKkjufRYTNUKaUh5kh7OYtit3LXu9mawQrC92LL0/edit?usp=sharing" target="_blank"><img height="20" src="Resume-logo.png" alt="Resume Icon"/> Resume</a>
 </div>
 &nbsp;&nbsp;&nbsp;
 <div align="center"><a href="https://www.linkedin.com/in/qonda" target="_blank"><img height="27" src="linkden-logo.png"/></a></div>
