@@ -35,13 +35,4 @@
   <img height="50" src="git.png" alt="VScode logo"/>
 </div>
 <div align="center">
-  
-## My Contributions
-</div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qonda3&show_icons=true&locale=en" alt="streak stats"/>
-  <br/>
-  
-</div>
+
