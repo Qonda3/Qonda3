@@ -27,6 +27,8 @@
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="react.png" alt="React logo"/>
   &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="typescript.png" alt="Typescript logo"/>
+  &nbsp; <!-- Non-breaking space -->
   <img height="50" src="vue.png" alt="Vue logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="sql.png" alt="SQL logo"/>
@@ -36,5 +38,7 @@
   <img height="50" src="visual-studio-code.png" alt="VScode logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="git.png" alt="VScode logo"/>
+  &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="figma.png" alt="Figma logo"/>
 </div>
 <div align="center">
