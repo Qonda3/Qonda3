@@ -21,6 +21,8 @@
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="javascript-logo.png" alt="javascript logo"/>
   &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="python.png" alt="Python logo"/>
+  &nbsp; <!-- Non-breaking space -->
   <img height="50" src="java.png" alt="java logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="react.png" alt="React logo"/>
