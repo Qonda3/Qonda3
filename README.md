@@ -25,9 +25,11 @@
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="react.png" alt="React logo"/>
   &nbsp; <!-- Non-breaking space -->
-  <img height="50" src="vue.png" alt="React logo"/>
+  <img height="50" src="vue.png" alt="Vue logo"/>
   &nbsp; <!-- Non-breaking space -->
-  <img height="50" src="tailwind.png" alt="React logo"/>
+  <img height="50" src="sql.png" alt="SQL logo"/>
+  &nbsp; <!-- Non-breaking space -->
+  <img height="50" src="tailwind.png" alt="tailwind logo"/>
   &nbsp; <!-- Non-breaking space -->
   <img height="50" src="visual-studio-code.png" alt="VScode logo"/>
   &nbsp; <!-- Non-breaking space -->
