@@ -1,9 +1,9 @@
 <p align="center">
   <img height="400" src="banner.png" alt="my banner"/>
 </p>
-<h2 align="center">Qonda Mampofu</h2>
-<h3 align="center">Front-end Developer | CSS | JavaScript | HTML</h3>
-<h3 align="center">I'm a front-end developer passionate about creating dynamic web applications. I have received training from Scrimba, freeCodeCamp, and CodeSpace, honing my skills in CSS, JavaScript, and HTML. I am always eager to learn and adapt to new technologies.</h3>
+<h2 align="center">A space to share and document my personal coding journey</h2>
+<h3 align="center">Sotware Developer | Python | Java | TypeScript | CSS | JavaScript | HTML</h3>
+<h3 align="center">I'm passionate about building creative tech projects that showcase my skills, from dynamic websites and interactive socket-based games to API development and problem-solving tools. I enjoy collaborating with my friends in the LSQ organization we founded, where we challenge each other to grow as developers. Always eager to learn, explore, and push my limits.</h3>
 <h2 align="center">Contact</h2>
 <div align="center">
   <img height="20" src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png"/> mampofuq@gmail.com
