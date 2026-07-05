@@ -2,7 +2,7 @@
   <img height="400" src="banner.png" alt="my banner"/>
 </p>
 <h2 align="center">A space to share and document my personal coding journey</h2>
-<h3 align="center">Sotware Developer | Python | Java | TypeScript | CSS | JavaScript | HTML</h3>
+<h3 align="center">Junior Python Developer | Python | Java | React | JavaScript | WeThinkCode_ NQF 6 Graduate</h3>
 <h3 align="center">I'm passionate about building creative tech projects that showcase my skills, from dynamic websites and interactive socket-based games to API development and problem-solving tools. I enjoy collaborating with my friends in the LSQ organization we founded, where we challenge each other to grow as developers. Always eager to learn, explore, and push my limits.</h3>
 <h2 align="center">Contact</h2>
 <div align="center">
