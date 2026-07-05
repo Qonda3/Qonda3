@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">A space to share and document my personal coding journey</h2>
 <h3 align="center">Junior Python Developer | Python | Java | React | JavaScript | WeThinkCode_ NQF 6 Graduate</h3>
-<h3 align="center">I'm passionate about building creative tech projects that showcase my skills, from dynamic websites and interactive socket-based games to API development and problem-solving tools. I enjoy collaborating with my friends in the LSQ organization we founded, where we challenge each other to grow as developers. Always eager to learn, explore, and push my limits.</h3>
+<h3 align="center">I'm passionate about building creative tech projects that solve real-world problems, from full-stack web applications and interactive software to APIs and problem-solving tools. I enjoy learning through hands-on projects, collaborating with other developers, and continuously challenging myself to grow. This is a space where I share and document my coding journey, the projects I'm building, and the lessons I learn along the way.</h3>
 <h2 align="center">Contact</h2>
 <div align="center">
   <img height="20" src="https://img.icons8.com/ios-glyphs/20/000000/new-post.png"/> mampofuq@gmail.com
